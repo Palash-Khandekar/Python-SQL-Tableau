@@ -17,8 +17,8 @@ In this project, I have integrated Jupyter notebook, MySQL workbench and tableau
 * Tableau
 
 ## Important Libraries
-* 
-![](./Images/mysql-jupy.PNG)
+* Connection between MySQL workbench and Jupyter Notebook
+![sql-jupy](./Images/mysql-jupy.PNG)
 
 ## Code Example
 
