@@ -4,9 +4,8 @@ The aim of this project is to understand the flow of data in a real life busines
 ![sql-jupy-tab](./Images/tab-sql-jupy.PNG)
 
 ## Table of contents
-* [Business Understanding](#business-understanding)
+* [Problem Definition](#problem-def)
 * [Technologies and Tools](#technologies-and-tools)
-* [Flow of Process](#flow-diagram)
 * [Important Libraries](#lib)
 * [Code Example](#code-example)
 * [Result](#result)
